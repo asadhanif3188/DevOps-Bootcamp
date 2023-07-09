@@ -351,11 +351,21 @@ The target audience may include:
 - CI Templates - Library for all projects (Job Templates)
 - Deploy Microservices to Kubernetes cluster
 
+## Module 11: Managed Container Services
+- Container Service on DigitalOcean 
+- Create DOKS cluster 
+- Complete CI/CD Pipeline with DOKS and DockerHub 
+- Container Services on AWS
+- Create EKS cluster with AWS Management Console
+- Configure Autoscaling in EKS cluster
+- Create Fargate Profile for EKS Cluster
+- Create EKS cluster with eksctl command line tool
+- Deploy to EKS Cluster from Jenkins Pipeline
+- Complete CI/CD Pipeline with EKS and DockerHub
+- Complete CI/CD Pipeline with EKS and ECR
+
 
 <!-- 
-
-## Module 11: Managed Container Services
-- 
 
 ## Module 12: Terraform (IaC)
 - 
