@@ -442,10 +442,20 @@ The target audience may include:
 - OOP: Classes and Objects 
 - Project: API Request to GitLab
 
-
-<!-- 
 ## Module 16: Boto Library 
-- 
-
--->
+- Introduction to Boto Library (AWS SDK for Python)
+- Install Boto3 and connect to AWS
+- Getting familiar with Boto 
+- Terraform vs Python - understand when to use which tool
+- Health Check: EC2 Status Checks 
+- Write a Scheduled Task in Python
+- Configure Server: Add Environment Tags to EC2 Instances 
+- EKS cluster information 
+- Backup EC2 Volumes: Automate creating Snapshots 
+- Automate cleanup of old Snapshots
+- Automate restoring EC2 Volume from the Backup 
+- Handling Errors 
+- Scheduled Task to Monitor Application Health 
+- Automated Email Notification
+- Restart Application and Reboot Server
 
