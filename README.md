@@ -478,3 +478,108 @@ Following are the recorded sessions of Bootcamp.
   <img src="./images/thumbnails/Day01-p2.png" width="50%">
 </a>
 
+
+<!-- 
+
+DevOps Bootcamp - Day 02
+Part A - Development and Operations
+https://youtu.be/3zyAWM7b21A
+Part B - Question & Answers
+https://youtu.be/VtR_APeFS8g
+
+
+DevOps Bootcamp - Day 03
+Part A - Application Release Process
+https://youtu.be/FtNjvykz_sE
+Part B - Questions & Answers
+https://youtu.be/-t-xd_FivyY
+
+
+DevOps Bootcamp - Day 04
+Part A - Roadblocks of the Release Process
+https://youtu.be/-L_Y8cyoxKY
+Part B - Questions & Answers
+https://youtu.be/2AYwUoghRtg
+
+
+DevOps Bootcamp - Day 05
+Part A - Principles of DevOps and its Lifecycle
+https://youtu.be/nYJTrkYT9Qo
+Part B - Questions & Answers
+https://youtu.be/aTub-2IBR5c
+
+
+DevOps Bootcamp - Day 06
+Part A - 7 Cs of DevOps
+https://youtu.be/E_VDKNQwta8
+Part B - Questions & Answers
+https://youtu.be/43GHSrd1AD0
+
+
+DevOps Bootcamp - Day 07
+Part A - Operating System
+https://youtu.be/LkCnMILfJeg
+Part B - Questions & Answers
+https://youtu.be/_9w0hMN-sYY
+
+
+DevOps Bootcamp - Day 08
+Part A - Virtualization 
+https://youtu.be/1kKaQx23JNI
+Part B - Questions & Answers
+https://youtu.be/qbrpbzpI_UQ
+
+
+DevOps Bootcamp - Day 09
+Part A - Virtual Machine Setup on VirtualBox
+https://youtu.be/Z_gpemoJ8rI
+Part B - Virtual Machine Setup on AWS
+https://youtu.be/UnKqhBM6ew4
+Part B - Questions & Answers
+https://youtu.be/bQs146bVOKE
+
+
+DevOps Bootcamp - Day 10
+Part A - Basic Utilities and Commands for Linux
+https://youtu.be/NINIlRxiEYo
+Part B - Questions & Answers
+https://youtu.be/DJ4l6p1lrpU
+
+
+DevOps Bootcamp - Day 11
+Part A - Working with Directories in Linux
+https://youtu.be/74TmPGostFI
+Part B - Questions & Answers
+https://youtu.be/DoA99HKSb-Q
+
+
+DevOps Bootcamp - Day 12
+Part A - Working with Text Files in Linux (Basic Commands)
+https://youtu.be/2m3q_0ZL2P4
+Part B - Questions & Answers
+https://youtu.be/vJbLL1pOcxc
+
+
+DevOps Bootcamp - Day 13
+Part A - 
+Part B - Questions & Answers
+
+DevOps Bootcamp - Day 14
+Part A - 
+Part B - Questions & Answers
+
+DevOps Bootcamp - Day 15
+Part A - 
+Part B - Questions & Answers
+
+DevOps Bootcamp - Day 16
+Part A - 
+Part B - Questions & Answers
+
+DevOps Bootcamp - Day 17
+Part A - 
+Part B - Questions & Answers
+
+
+ -->
+
