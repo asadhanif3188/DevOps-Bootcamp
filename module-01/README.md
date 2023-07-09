@@ -1,7 +1,7 @@
 # 1. Module 01: Introduction to DevOps
 
 ## 1.1 - Instructor 
-<img src="../images/instructor.png" width="80%"/>
+<img src="../images/instructor.png" width="50%"/>
 
 Follow the links below to connect with him:
 
@@ -26,18 +26,19 @@ Follow the links below to connect with him:
 - Lifecycle of DevOps 
 - 7 C’s of DevOps 
 
-## 1.3 - Recorded Sessions
+## 1.3 - Module's Sessions
 
 ### 1.3.1 - Day 01
 **Part A - Bootcamp Overview**
 
-<a href="https://youtu.be/XLYfRT3lkV4">
+<a href="https://youtu.be/XLYfRT3lkV4" target="_blank">
   <img src="../images/thumbnails/Day01-p1.png" width="50%">
 </a>
 
+
 **Part B - Questions & Answers**
 
-<a href="https://youtu.be/cdJ7i97nohA">
+<a href="https://youtu.be/cdJ7i97nohA" target="_blank">
   <img src="../images/thumbnails/Day01-p2.png" width="50%">
 </a>
 

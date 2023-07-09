@@ -10,7 +10,7 @@
 - [Learning Outcomes (LOs)](#learning-outcomes-los)
 - [Taking the Bootcamp](#taking-the-bootcamp)
 - [Syllabus](#syllabus)
-<!-- - [Day by Day Videos](#day-by-day-videos) -->
+- [Recorded Sessions](#recorded-sessions)
 
 -------
 
@@ -460,4 +460,21 @@ The target audience may include:
 - Scheduled Task to Monitor Application Health 
 - Automated Email Notification
 - Restart Application and Reboot Server
+
+# Recorded Sessions
+Following are the recorded sessions of Bootcamp. 
+
+## Day 01
+**Part A - Bootcamp Overview**
+
+<a href="https://youtu.be/XLYfRT3lkV4" target="_blank">
+  <img src="./images/thumbnails/Day01-p1.png" width="50%">
+</a>
+
+
+**Part B - Questions & Answers**
+
+<a href="https://youtu.be/cdJ7i97nohA" target="_blank">
+  <img src="./images/thumbnails/Day01-p2.png" width="50%">
+</a>
 
