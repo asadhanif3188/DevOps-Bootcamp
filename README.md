@@ -340,13 +340,19 @@ The target audience may include:
 - Create Helm Chart for Microservices
 - Deploy Microservices with Helmfile
 
-
+## Module 10: CI/CD with Kubernetes
+- CI/CD for Microservices based Application 
+- What are Microservices?
+- Monorepo vs. Polyrepo
+- Build Microservices (Monorepo Demo)
+- Deploy Microservices (Monorepo Demo)
+- CI/CD pipeline for Polyrepo
+- Extract common logic (Job Templates)
+- CI Templates - Library for all projects (Job Templates)
+- Deploy Microservices to Kubernetes cluster
 
 
 <!-- 
-
-## Module 10: CI/CD with Kubernetes
-- 
 
 ## Module 11: Managed Container Services
 - 
