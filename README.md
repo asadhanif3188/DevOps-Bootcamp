@@ -149,9 +149,32 @@ The target audience may include:
 - Secure Copy - SCP 
 - VM Monitoring commands 
 
+## Module 03: Version Control System (VCS)
+- Introduction to VCS
+- Types of CVSs
+- Introduction to Git
+- Installation of Git
+- Setup Git Repository locally 
+- Introduction to GitLab and GitHub 
+- Setup Git Repository remotely 
+    - On GitLab 
+    - On GitHub 
+- Connecting local and remote repositories 
+- Concept of Branches
+- Creating new branches 
+- Deleting branches
+- Switching to different branches
+- Merging branches
+- Merge Requests
+- Rebase
+- Resolving Merge Conflicts
+- Gitignore
+- Git stash
+- Undoing Commits
+
+
 
 <!-- 
-## Module 03: Version Control System (VCS)
 
 ## Module 04: Databases 
 
