@@ -1,6 +1,6 @@
 # DevOps Bootcamp - by Asad Hanif
 
-<img src="./images/bootcamp-banner.png" width="85%"/>
+<img src="./images/bootcamp-banner.png" width="90%"/>
 
 ## Welcome to the DevOps Bootcamp!
 
@@ -99,7 +99,51 @@ The target audience may include:
 - **IT Managers**: Decision-makers who want to understand the benefits of DevOps and how to implement it within their organizations for improved productivity and delivery.
 - **Tech Enthusiasts**: Individuals with a passion for technology who want to explore the DevOps field and its impact on software development and operations.
 
+# Syllabus
+
+## Module 01: Introduction to DevOps 
+- Phases to SDLC 
+- What is Development? 
+    - Development Types
+    - Role of Developer
+- What are Operations? 
+    - Role of operations 
+- Common problems faced during 
+    - Development 
+    - Operations 
+- How DevOps solved these problems? 
+- Agile Process Model
+- Lifecycle of DevOps 
+- 7 C’s of DevOps 
 
 
+<!-- ## Module 02: Linux 
 
+## Module 03: Version Control System (VCS)
+
+## Module 04: Databases 
+
+## Module 05: Containerization
+
+## Module 06: Artifact Repository Manager
+
+## Module 07: Cloud Computing with AWS
+
+## Module 08: Continuous Integration and Continuous Deployment (CI/CD)
+
+## Module 09: Container Orchestration with Kubernetes
+
+## Module 10: CI/CD with Kubernetes
+
+## Module 11: Managed Container Services
+
+## Module 12: Terraform (IaC)
+
+## Module 13: Ansible (Configuration Management)
+
+## Module 14: Observability and Monitoring 
+
+## Module 15: Python for Automation  
+
+## Module 16: Boto Library -->
 
