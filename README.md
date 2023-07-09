@@ -113,7 +113,7 @@ The target audience may include:
 
 # Syllabus
 
-## [Module 01: Introduction to DevOps](./module-01/README.md) 
+## [Module 01: Introduction to DevOps](module-01) 
 - Phases to SDLC 
 - What is Development? 
     - Development Types
@@ -128,7 +128,7 @@ The target audience may include:
 - Lifecycle of DevOps 
 - 7 C’s of DevOps 
 
-[See Module 01 Videos](#module-01)
+[See Module 01 Videos](module-01)
 
 ## Module 02: Linux 
 - Operating System 
