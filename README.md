@@ -421,10 +421,29 @@ The target audience may include:
 - Pixie (optional)  
 - Datadog (optional)
 
-<!-- 
 ## Module 15: Python for Automation  
-- 
+- Introduction to Python
+- Installation and Local Setup
+- Python IDE vs Simple File Editor
+- First Python Program
+- Strings and Number Data Types 
+- Variables 
+- Functions 
+- Accepting User Input 
+- Conditionals (if / else) and Boolean Data Type 
+- Error Handling with Try-Except 
+- While Loop
+- Lists and For Loops 
+- Sets 
+- Dictionary Data Type 
+- Modules
+- Packages, PyPI and pip 
+- Automation with Python 
+- OOP: Classes and Objects 
+- Project: API Request to GitLab
 
+
+<!-- 
 ## Module 16: Boto Library 
 - 
 
