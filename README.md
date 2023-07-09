@@ -21,3 +21,25 @@ We are thrilled to welcome you to the **DevOps Bootcamp**! Congratulations on ta
 
 <img src="./images/instructor.png" width="85%"/>
 
+**Note**: Information in the above image is as per the July 09, 2023. You may be watching it later on.
+
+## Aim of Bootcamp 
+
+The Bootcamp is a continuation of the efforts of the [OSFP](https://osfp.org.pk
+):
+
+> Initial aim is to train and make **10 thousand** Pakistanis as DevOps professionals, who can earn a **minimum of $1000** per month.
+
+### Open-Source Foundation of Pakistan (OSFP)
+
+- OSFP is a non-profit organization, founded in 2009.
+- Aims at revolutionize Pakistani IT echo-system.
+- By spreading awareness about Open-Source solutions.
+- [OSFP Website](https://osfp.org.pk)
+- [OSFP @ LinkedIn](https://www.linkedin.com/company/pakistan-open-source-foundation/)
+- [OSFP @ Facebook](https://www.facebook.com/osfp.org.pk)
+
+
+
+
+
