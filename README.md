@@ -223,26 +223,55 @@ The target audience may include:
 - Deploy Nexus as Docker Container
 - Pushing Docker images on Nexus 
 
+## Module 07: Cloud Computing with AWS
+- Introduction to Cloud Computing 
+- Cloud Service Models 
+    - IaaS
+    - PaaS
+    - SaaS
+- Introduction to Cloud Platforms 
+- Introduction to AWS Services 
+- Regions & Availability Zones
+- Introduction to EC2 Virtual Cloud Server
+- Deploy Application on VM
+- IAM - Manage Users, Roles and Permissions
+- S3 Buckets 
+- AWS CLI 
+- VPC - Manage Private Network on AWS
+- Elastic Load Balancer (ELB) 
+- Amazon RDS 
+- Route53
+- Amazon Serverless 
+
 
 <!-- 
 
-## Module 07: Cloud Computing with AWS
-
 ## Module 08: Continuous Integration and Continuous Deployment (CI/CD)
+- 
 
 ## Module 09: Container Orchestration with Kubernetes
+- 
 
 ## Module 10: CI/CD with Kubernetes
+- 
 
 ## Module 11: Managed Container Services
+- 
 
 ## Module 12: Terraform (IaC)
+- 
 
 ## Module 13: Ansible (Configuration Management)
+- 
 
 ## Module 14: Observability and Monitoring 
+- 
 
 ## Module 15: Python for Automation  
+- 
 
-## Module 16: Boto Library -->
+## Module 16: Boto Library 
+- 
+
+-->
 
