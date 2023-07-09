@@ -2,6 +2,18 @@
 
 <img src="./images/bootcamp-banner.png" width="90%"/>
 
+-------
+**Repo Outline**
+- [Welcome to the DevOps Bootcamp](#welcome-to-the-devops-bootcamp)
+- [Meet the Instructor](#meet-the-instructor)
+- [Aim of Bootcamp](#aim-of-bootcamp)
+- [Learning Outcomes (LOs)](#learning-outcomes-los)
+- [Taking the Bootcamp](#taking-the-bootcamp)
+- [Syllabus](#syllabus)
+<!-- - [Day by Day Videos](#day-by-day-videos) -->
+
+-------
+
 ## Welcome to the DevOps Bootcamp!
 
 We are thrilled to welcome you to the **DevOps Bootcamp**! Congratulations on taking this important step towards advancing your skills and knowledge in the exciting field of DevOps. We are excited to have you on board.
