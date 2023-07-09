@@ -364,12 +364,28 @@ The target audience may include:
 - Complete CI/CD Pipeline with EKS and DockerHub
 - Complete CI/CD Pipeline with EKS and ECR
 
+## Module 12: Terraform (IaC)
+- Introduction to Infrastructure as a Code (IaC) 
+- Introduction to Terraform
+- Install Terraform & Setup Terraform Project
+- Providers in Terraform
+- Resources & Data Sources
+- Change & Destroy Terraform Resources
+- Terraform commands
+- Terraform State
+- Output Values
+- Variables in Terraform
+- Environment Variables in Terraform
+- Create Git Repository for local Terraform Project
+- Automate Provisioning EC2 with Terraform
+- Provisioners in Terraform
+- Modules in Terraform
+- Automate Provisioning EKS cluster with Terraform
+- Complete CI/CD with Terraform
+- Remote State in Terraform
+
 
 <!-- 
-
-## Module 12: Terraform (IaC)
-- 
-
 ## Module 13: Ansible (Configuration Management)
 - 
 
