@@ -176,10 +176,24 @@ The target audience may include:
 - Databases in development process
 - Database Types
 
-<!-- 
-
 ## Module 05: Containerization
+- What is a Container?
+- Container vs Image
+- Docker vs. Virtual Machine
+- Docker Architecture and components
+- Main Docker Commands
+- Debug Commands
+- Docker Demo - Project Overview
+- Dockerfile - Build your Docker Image
+- Multi-stage Dockerfile 
+- Docker Compose - Run multiple Docker containers
+- Deploy docker application on a server
+- Docker Volumes - Persisting Data
+- Docker Network Model
 
+
+
+<!-- 
 ## Module 06: Artifact Repository Manager
 
 ## Module 07: Cloud Computing with AWS
