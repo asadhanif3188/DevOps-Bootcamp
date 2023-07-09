@@ -306,12 +306,44 @@ The target audience may include:
 - Dynamically Increment Application version in Jenkins
 - Deploy to EC2 server from Jenkins Pipeline
 
+## Module 09: Container Orchestration with Kubernetes
+- What is container orchestration? 
+- Orchestration Tools 
+- Docker Swarm 
+- Kubernetes 
+- OpenShift 
+- Intro to Kubernetes
+- Main Kubernetes Components
+- Kubernetes Architecture
+- Cluster Setup with Minikube 
+- Kubectl commands 
+- Cluster Setup with KubeAdm 
+- YAML Configuration File
+- Deploying Application in Kubernetes Cluster
+- Namespaces - Organizing Components
+- Services - Connecting to Applications inside cluster
+- Ingress - Connecting to Applications outside cluster
+- Volumes - Persisting Application Data
+- ConfigMap & Secrets
+- StatefulSet - Deploying Stateful Applications
+- Managed Kubernetes Services
+- Helm - Package Manager for Kubernetes
+- Helm Charts Demo
+- Developing Custom Helm Chart
+- Deploying Images in Kubernetes from private Docker repository
+- Kubernetes Operators for Managing Complex Applications
+- Helm and Operator Demo
+- Secure the cluster - Authorization with RBAC
+- Microservices in Kubernetes
+- Deploy Microservices Application
+- Production & Security Best Practices
+- Create Helm Chart for Microservices
+- Deploy Microservices with Helmfile
+
+
 
 
 <!-- 
-
-## Module 09: Container Orchestration with Kubernetes
-- 
 
 ## Module 10: CI/CD with Kubernetes
 - 
