@@ -243,11 +243,72 @@ The target audience may include:
 - Route53
 - Amazon Serverless 
 
+## Module 08: Continuous Integration and Continuous Deployment (CI/CD)
+- Introduction to CI/CD
+- Introduction to CI/CD Tools
+    - GitLab CI
+    - Jenkins 
+    - GitHub Actions 
+- Core Concepts of GitLab CI/CD
+- Jobs: Basic Building Blocks of Pipeline
+- Stages: Group jobs
+- needs: Dependency between jobs
+- script: Inline shell commands and executing shell script
+- only: Specify when job should run
+- Workflow Rules: Control Pipeline behavior
+- Trigger Pipeline on Merge Request
+- Predefined CI/CD Variables in GitLab
+- Define Custom Variables
+- GitLab Architecture
+- GitLab Runners for running the jobs
+- GitLab Executors - Different Executor Types
+- Job Execution Flow
+- Docker Executor
+- Specific Runners: Runner for specific project
+- Configure self-managed Runners
+- Install & Register an AWS EC2 Runner
+- Execute jobs on specific Runner (Tags)
+- Add Docker Runner on EC2 Instance
+- Group Runners: Runner for a GitLab Group
+- Build a real-life CI/CD Pipeline for Node.js Application
+- Build Docker Image & Push to Private Registry
+- GitLab Environments
+    - Dev environment
+    - Stagging environment
+    - Productions environment
+- Deploy app to different Environments 
+    - Dev server
+    - Stagging server 
+    - Productions server 
+- Deploy with Docker Compose
+- Optimize CI/CD Pipeline & Configure Multi-Stage Pipeline
+- Configure Dynamic Versioning for Docker Image
+- Configure Caching to speed up Pipeline execution
+- Testing in CI/CD & Configure Security Tests (SAST)
+- Intro to Multi-Stage Deployments (Multi-Stage Demo)
+- Promote to Staging (Multi-Stage Demo)
+- Promote to Production (Multi-Stage Demo)
+- Introduction to Jenkins 
+- Install Jenkins
+- Introduction to Jenkins UI
+- Install Build Tools in Jenkins
+- Jenkins Basics Demo - Freestyle Job
+- Docker in Jenkins
+- Freestyle to Pipeline Job
+- Intro to Pipeline Job
+- Jenkinsfile Syntax
+- Create complete Pipeline
+- Intro to Multibranch Pipeline
+- Jenkins Jobs Overview
+- Credentials in Jenkins
+- Jenkins Shared Library
+- Webhooks - Trigger Pipeline Jobs automatically
+- Dynamically Increment Application version in Jenkins
+- Deploy to EC2 server from Jenkins Pipeline
+
+
 
 <!-- 
-
-## Module 08: Continuous Integration and Continuous Deployment (CI/CD)
-- 
 
 ## Module 09: Container Orchestration with Kubernetes
 - 
