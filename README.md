@@ -76,17 +76,28 @@ Here are a few important details to help you prepare for the bootcamp:
     - Slack Channel: Learning DevOps (within DevOps Bootcamp workspace)
 
 4. **Live Zoom Session**: The bootcamp sessions are conducted through Zoom, a popular online meeting platform. Here are the details to join the Zoom meetings:
-    - Meeting Date: June 19, 2023
-    - Meeting Time: 09:00 pm - 10:00 pm
+    - Meeting Date: **June 19, 2023**
+    - Meeting Time: **09:00 pm - 10:00 pm**
     - Zoom Meeting Link: https://us05web.zoom.us/j/81725954250?pwd=Qmd4bVliMWN2RXBpd2hWMk01aURaUT09
 
+### Self-paced Mode
 
-### Self-paced mode
 - All the recorded session of the Bootcamp are freely available at [YouTube Channel](https://www.youtube.com/@solveit2k18), so that you can take the course at your own pace. 
 - [DevOps Bootcamp Playlist](https://youtube.com/playlist?list=PLg6orTBNhcmcSPQA0rbs_p1dSvLkw4J2q)
 
 <a href="https://youtube.com/playlist?list=PLg6orTBNhcmcSPQA0rbs_p1dSvLkw4J2q"> 
 <img src="./images/channel-playlist.png" width="85%" /> </a>
+
+### Target Audience
+
+The target audience may include:
+
+- **Software Developers**: Those who want to understand how DevOps principles and practices can improve collaboration and accelerate software development.
+- **Operations Engineers**: Professionals responsible for managing and maintaining IT infrastructure, who want to learn how DevOps can streamline operations and increase efficiency.
+- **System Administrators**: Individuals interested in learning how to automate infrastructure provisioning and management using DevOps tools and practices.
+- **Quality Assurance/Testers**: Those who want to explore how DevOps methodologies, such as continuous testing and integration, can improve software quality.
+- **IT Managers**: Decision-makers who want to understand the benefits of DevOps and how to implement it within their organizations for improved productivity and delivery.
+- **Tech Enthusiasts**: Individuals with a passion for technology who want to explore the DevOps field and its impact on software development and operations.
 
 
 
