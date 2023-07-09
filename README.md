@@ -384,11 +384,29 @@ The target audience may include:
 - Complete CI/CD with Terraform
 - Remote State in Terraform
 
+## Module 13: Ansible (Configuration Management)
+- Introduction to Configuration Management 
+- Introduction to Ansible
+- Install Ansible 
+- Setup Managed Server to Configure with Ansible 
+- Ansible Inventory and Ansible ad-hoc commands 
+- Configure AWS EC2 server with Ansible
+- Managing Host Key Checking and SSH keys 
+- Introduction to Playbooks 
+- Ansible Modules 
+- Collections in Ansible
+- Deploy Nodejs application 
+- Ansible Variables - make Playbook customizable
+- Deploy Nexus 
+- Ansible Configuration - Default Inventory File 
+- Run Docker applications 
+- Terraform & Ansible 
+- Dynamic Inventory for EC2 Servers
+- Deploying Application in K8s
+- Run Ansible from Jenkins Pipeline 
+
 
 <!-- 
-## Module 13: Ansible (Configuration Management)
-- 
-
 ## Module 14: Observability and Monitoring 
 - 
 
