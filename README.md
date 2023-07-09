@@ -116,9 +116,41 @@ The target audience may include:
 - Lifecycle of DevOps 
 - 7 C’s of DevOps 
 
+## Module 02: Linux 
+- Operating System 
+    - Role of Operating System 
+    - Types of Operating Systems
+- Virtualization 
+    - Virtualization Platforms 
+    - Virtual Machines 
+    - Setup a Linux Virtual Machine
+- Linux File System
+- Command Line Interface
+- Basic Linux Commands
+- Package Manager
+- File Editors 
+    - Working with Nano 
+    - Working with Vi 
+    - Working with Vim 
+- Linux Accounts & Groups
+- Users 
+- Permissions 
+- File Ownership & Permissions
+- Pipes & Redirects commands 
+- Networks commands 
+- Types of Shells 
+- Introduction to Shell Scripting
+    - Basic shell script 
+    - Decision making in shell script
+    - Repetitive structure in shell script 
+    - Functions in shell script 
+- Environment Variables
+- SSH - Secure Shell
+- Secure Copy - SCP 
+- VM Monitoring commands 
 
-<!-- ## Module 02: Linux 
 
+<!-- 
 ## Module 03: Version Control System (VCS)
 
 ## Module 04: Databases 
