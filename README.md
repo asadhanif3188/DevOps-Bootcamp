@@ -172,11 +172,11 @@ The target audience may include:
 - Git stash
 - Undoing Commits
 
-
+## Module 04: Databases 
+- Databases in development process
+- Database Types
 
 <!-- 
-
-## Module 04: Databases 
 
 ## Module 05: Containerization
 
