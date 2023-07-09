@@ -203,10 +203,28 @@ The target audience may include:
 - Docker Volumes - Persisting Data
 - Docker Network Model
 
+## Module 06: Artifact Repository Manager
+- Introduction to Artifact Repository Manager
+- Docker Repository
+    - Docker Hub 
+    - Amazon Elastic Container Registry (ECR)
+    - Nexus 
+    - GitLab Registry
+- Pushing Docker images on 
+    - Docker Hub
+    - GitLab Registry
+    - ECR
+- Introduction to Nexus
+- Install Nexus on a cloud server
+- Repository Types
+- Publish Artifact to Repository
+- Cleanup Policies and Scheduled Tasks
+- Create Docker Hosted Repository on Nexus
+- Deploy Nexus as Docker Container
+- Pushing Docker images on Nexus 
 
 
 <!-- 
-## Module 06: Artifact Repository Manager
 
 ## Module 07: Cloud Computing with AWS
 
