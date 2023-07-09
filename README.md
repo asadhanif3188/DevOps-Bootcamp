@@ -405,11 +405,23 @@ The target audience may include:
 - Deploying Application in K8s
 - Run Ansible from Jenkins Pipeline 
 
+## Module 14: Observability and Monitoring 
+- Observability vs. Monitoring 
+- Pilers of Observability
+    - Logs 
+    - Metrics 
+    - Traces 
+- Prometheus for Metrics Collection 
+- Grafana for Visualization 
+- Monitoring simple application with Prometheus and Grafana 
+- Monitoring Microservices with Prometheus and Grafana
+- Jaeger for distributed tracing 
+- Kubecost (optional)
+- Robusta (optional) 
+- Pixie (optional)  
+- Datadog (optional)
 
 <!-- 
-## Module 14: Observability and Monitoring 
-- 
-
 ## Module 15: Python for Automation  
 - 
 
