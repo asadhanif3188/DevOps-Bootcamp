@@ -1,6 +1,6 @@
 # DevOps Bootcamp - by Asad Hanif
 
-<img src="./images/bootcamp-banner.png" width="90%"/>
+<img src="./images/bootcamp-banner.png" width="85%"/>
 
 ## Welcome to the DevOps Bootcamp!
 
@@ -18,3 +18,6 @@ We are thrilled to welcome you to the **DevOps Bootcamp**! Congratulations on ta
 - [GitLab Profile](https://gitlab.com/asadhanif3188)
 - [GitHub Profile](https://github.com/asadhanif3188)
 - Please feel free to reach out at [asadhanif3188@gmail.com](asadhanif3188@gmail.com). 
+
+<img src="./images/instructor.png" width="85%"/>
+
