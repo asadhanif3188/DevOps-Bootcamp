@@ -97,7 +97,7 @@ Here are a few important details to help you prepare for the bootcamp:
 - All the recorded session of the Bootcamp are freely available at [YouTube Channel](https://www.youtube.com/@solveit2k18), so that you can take the course at your own pace. 
 - [DevOps Bootcamp Playlist](https://youtube.com/playlist?list=PLg6orTBNhcmcSPQA0rbs_p1dSvLkw4J2q)
 
-<a href="https://youtube.com/playlist?list=PLg6orTBNhcmcSPQA0rbs_p1dSvLkw4J2q"> 
+<a href="https://youtube.com/playlist?list=PLg6orTBNhcmcSPQA0rbs_p1dSvLkw4J2q" target="_blank"> 
 <img src="./images/channel-playlist.png" width="85%" /> </a>
 
 ### Target Audience
@@ -113,7 +113,7 @@ The target audience may include:
 
 # Syllabus
 
-## Module 01: Introduction to DevOps 
+## [Module 01: Introduction to DevOps](./module-01/README.md) 
 - Phases to SDLC 
 - What is Development? 
     - Development Types
@@ -127,6 +127,8 @@ The target audience may include:
 - Agile Process Model
 - Lifecycle of DevOps 
 - 7 C’s of DevOps 
+
+[See Module 01 Videos](#module-01)
 
 ## Module 02: Linux 
 - Operating System 
