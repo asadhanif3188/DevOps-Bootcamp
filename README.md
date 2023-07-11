@@ -468,6 +468,7 @@ Following are the recorded sessions of Bootcamp.
 **Sessions Outline**
 - [Day 01 - Bootcamp Overview](#day-01)
 - [Day 02 - Development and Operations](#day-02)
+- [Day 03 - Application Release Process](#day-03)
 
 -------
 
@@ -514,12 +515,45 @@ Following are the recorded sessions of Bootcamp.
 
 
 <!-- 
+## Day 04
+**Part A - **
 
-DevOps Bootcamp - Day 04
-Part A - Roadblocks of the Release Process
-https://youtu.be/-L_Y8cyoxKY
-Part B - Questions & Answers
-https://youtu.be/2AYwUoghRtg
+<a href="https://youtu.be/-L_Y8cyoxKY" target="_blank">
+  <img src="./images/thumbnails/Day04-p1.png" width="50%">
+</a>
+
+**Part B - Questions & Answers**
+
+<a href="https://youtu.be/2AYwUoghRtg" target="_blank">
+  <img src="./images/thumbnails/Day03-p2.png" width="50%">
+</a>
+
+## Day 05
+**Part A - **
+
+<a href="" target="_blank">
+  <img src="./images/thumbnails/Day03-p1.png" width="50%">
+</a>
+
+**Part B - Questions & Answers**
+
+<a href="" target="_blank">
+  <img src="./images/thumbnails/Day03-p2.png" width="50%">
+</a>
+
+## Day 06
+**Part A - **
+
+<a href="" target="_blank">
+  <img src="./images/thumbnails/Day03-p1.png" width="50%">
+</a>
+
+**Part B - Questions & Answers**
+
+<a href="" target="_blank">
+  <img src="./images/thumbnails/Day03-p2.png" width="50%">
+</a>
+
 
 
 DevOps Bootcamp - Day 05
