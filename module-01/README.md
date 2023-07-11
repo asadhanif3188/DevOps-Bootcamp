@@ -42,5 +42,28 @@ Follow the links below to connect with him:
   <img src="../images/thumbnails/Day01-p2.png" width="50%">
 </a>
 
+### 1.3.2 - Day 02
+**Part A - Development and Operations**
 
+<a href="https://youtu.be/3zyAWM7b21A" target="_blank">
+  <img src="../images/thumbnails/Day02-p1.png" width="50%">
+</a>
 
+**Part B - Questions & Answers**
+
+<a href="https://youtu.be/VtR_APeFS8g" target="_blank">
+  <img src="../images/thumbnails/Day02-p2.png" width="50%">
+</a>
+
+### 1.3.3 - Day 03
+**Part A - Application Release Process**
+
+<a href="https://youtu.be/FtNjvykz_sE" target="_blank">
+  <img src="../images/thumbnails/Day03-p1.png" width="50%">
+</a>
+
+**Part B - Questions & Answers**
+
+<a href="https://youtu.be/-t-xd_FivyY" target="_blank">
+  <img src="../images/thumbnails/Day03-p2.png" width="50%">
+</a>
