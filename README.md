@@ -485,7 +485,6 @@ Following are the recorded sessions of Bootcamp.
   <img src="./images/thumbnails/Day01-p2.png" width="50%">
 </a>
 
-
 ## Day 02
 **Part A - Development and Operations**
 
@@ -499,20 +498,22 @@ Following are the recorded sessions of Bootcamp.
   <img src="./images/thumbnails/Day02-p2.png" width="50%">
 </a>
 
+## Day 03
+**Part A - Application Release Process**
 
+<a href="https://youtu.be/FtNjvykz_sE" target="_blank">
+  <img src="./images/thumbnails/Day03-p1.png" width="50%">
+</a>
+
+**Part B - Questions & Answers**
+
+<a href="https://youtu.be/-t-xd_FivyY" target="_blank">
+  <img src="./images/thumbnails/Day03-p2.png" width="50%">
+</a>
 
 
 
 <!-- 
-
-
-
-DevOps Bootcamp - Day 03
-Part A - Application Release Process
-https://youtu.be/FtNjvykz_sE
-Part B - Questions & Answers
-https://youtu.be/-t-xd_FivyY
-
 
 DevOps Bootcamp - Day 04
 Part A - Roadblocks of the Release Process
