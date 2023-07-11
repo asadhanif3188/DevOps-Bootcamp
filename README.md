@@ -467,6 +467,7 @@ Following are the recorded sessions of Bootcamp.
 -------
 **Sessions Outline**
 - [Day 01 - Bootcamp Overview](#day-01)
+- [Day 02 - Development and Operations](#day-02)
 
 -------
 
@@ -478,7 +479,6 @@ Following are the recorded sessions of Bootcamp.
   <img src="./images/thumbnails/Day01-p1.png" width="50%">
 </a>
 
-
 **Part B - Questions & Answers**
 
 <a href="https://youtu.be/cdJ7i97nohA" target="_blank">
@@ -486,13 +486,25 @@ Following are the recorded sessions of Bootcamp.
 </a>
 
 
+## Day 02
+**Part A - Development and Operations**
+
+<a href="https://youtu.be/3zyAWM7b21A" target="_blank">
+  <img src="./images/thumbnails/Day02-p1.png" width="50%">
+</a>
+
+**Part B - Questions & Answers**
+
+<a href="https://youtu.be/VtR_APeFS8g" target="_blank">
+  <img src="./images/thumbnails/Day02-p2.png" width="50%">
+</a>
+
+
+
+
+
 <!-- 
 
-DevOps Bootcamp - Day 02
-Part A - Development and Operations
-https://youtu.be/3zyAWM7b21A
-Part B - Question & Answers
-https://youtu.be/VtR_APeFS8g
 
 
 DevOps Bootcamp - Day 03
