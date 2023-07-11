@@ -464,6 +464,13 @@ The target audience may include:
 # Recorded Sessions
 Following are the recorded sessions of Bootcamp. 
 
+-------
+**Sessions Outline**
+- [Day 01 - Bootcamp Overview](#day-01)
+
+-------
+
+
 ## Day 01
 **Part A - Bootcamp Overview**
 
