@@ -67,3 +67,30 @@ Follow the links below to connect with him:
 <a href="https://youtu.be/-t-xd_FivyY" target="_blank">
   <img src="../images/thumbnails/Day03-p2.png" width="50%">
 </a>
+
+## Day 04
+**Part A - Roadblocks of the Release Process**
+
+<a href="https://youtu.be/-L_Y8cyoxKY" target="_blank">
+  <img src="../images/thumbnails/Day04-p1.png" width="50%">
+</a>
+
+**Part B - Questions & Answers**
+
+<a href="https://youtu.be/2AYwUoghRtg" target="_blank">
+  <img src="../images/thumbnails/Day04-p2.png" width="50%">
+</a>
+
+
+## Day 05
+**Part A - Principles of DevOps and its Lifecycle**
+
+<a href="https://youtu.be/nYJTrkYT9Qo" target="_blank">
+  <img src="../images/thumbnails/Day05-p1.png" width="50%">
+</a>
+
+**Part B - Questions & Answers**
+
+<a href="https://youtu.be/aTub-2IBR5c" target="_blank">
+  <img src="./images/thumbnails/Day05-p2.png" width="50%">
+</a>
