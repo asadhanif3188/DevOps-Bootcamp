@@ -92,5 +92,5 @@ Follow the links below to connect with him:
 **Part B - Questions & Answers**
 
 <a href="https://youtu.be/aTub-2IBR5c" target="_blank">
-  <img src="./images/thumbnails/Day05-p2.png" width="50%">
+  <img src="../images/thumbnails/Day05-p2.png" width="50%">
 </a>
