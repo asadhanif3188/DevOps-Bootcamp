@@ -469,6 +469,8 @@ Following are the recorded sessions of Bootcamp.
 - [Day 01 - Bootcamp Overview](#day-01)
 - [Day 02 - Development and Operations](#day-02)
 - [Day 03 - Application Release Process](#day-03)
+- [Day 04 - Roadblocks of the Release Process](#day-04)
+- [Day 05 - Principles of DevOps and its Lifecycle](#day-05)
 
 -------
 
