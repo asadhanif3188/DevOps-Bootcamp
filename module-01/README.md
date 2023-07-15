@@ -94,3 +94,31 @@ Follow the links below to connect with him:
 <a href="https://youtu.be/aTub-2IBR5c" target="_blank">
   <img src="../images/thumbnails/Day05-p2.png" width="50%">
 </a>
+
+## Day 06
+**Part A - 7 Cs of DevOps**
+
+<a href="https://youtu.be/E_VDKNQwta8" target="_blank">
+  <img src="../images/thumbnails/Day06-p1.png" width="50%">
+</a>
+
+**Part B - Questions & Answers**
+
+<a href="https://youtu.be/43GHSrd1AD0" target="_blank">
+  <img src="../images/thumbnails/Day06-p2.png" width="50%">
+</a>
+
+
+## Day 07
+**Part A - Operating System**
+
+<a href="https://youtu.be/LkCnMILfJeg" target="_blank">
+  <img src="../images/thumbnails/Day07-p1.png" width="50%">
+</a>
+
+**Part B - Questions & Answers**
+
+<a href="https://youtu.be/_9w0hMN-sYY" target="_blank">
+  <img src="../images/thumbnails/Day07-p2.png" width="50%">
+</a>
+
