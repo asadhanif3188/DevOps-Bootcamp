@@ -541,10 +541,23 @@ Following are the recorded sessions of Bootcamp.
   <img src="./images/thumbnails/Day05-p2.png" width="50%">
 </a>
 
+## Day 06
+**Part A - 7 Cs of DevOps**
+
+<a href="https://youtu.be/E_VDKNQwta8" target="_blank">
+  <img src="./images/thumbnails/Day06-p1.png" width="50%">
+</a>
+
+**Part B - Questions & Answers**
+
+<a href="https://youtu.be/43GHSrd1AD0" target="_blank">
+  <img src="./images/thumbnails/Day06-p2.png" width="50%">
+</a>
 
 <!-- 
 ## Day 06
 **Part A - **
+
 
 <a href="" target="_blank">
   <img src="./images/thumbnails/Day03-p1.png" width="50%">
