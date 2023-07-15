@@ -471,6 +471,8 @@ Following are the recorded sessions of Bootcamp.
 - [Day 03 - Application Release Process](#day-03)
 - [Day 04 - Roadblocks of the Release Process](#day-04)
 - [Day 05 - Principles of DevOps and its Lifecycle](#day-05)
+- [Day 06 - 7 Cs of DevOps](#day-06)
+- [Day 07 - Operating System](#day-07)
 
 -------
 
