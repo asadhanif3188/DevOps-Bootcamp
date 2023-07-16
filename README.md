@@ -699,8 +699,7 @@ DevOps Bootcamp - Day 17
 Part A - 
 Part B - Questions & Answers
 
-
  -->
 
 
-[Go up](#devOps-bootcamp-by-asad-hanif)
+[Go up](#welcome-to-the-devops-bootcamp)
