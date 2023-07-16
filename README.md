@@ -473,6 +473,8 @@ Following are the recorded sessions of Bootcamp.
 - [Day 05 - Principles of DevOps and its Lifecycle](#day-05)
 - [Day 06 - 7 Cs of DevOps](#day-06)
 - [Day 07 - Operating System](#day-07)
+- [Day 08 - Virtualization](#day-08)
+- [Day 09 - Virtual Machine Setup](#day-09)
 
 -------
 
@@ -570,6 +572,38 @@ Following are the recorded sessions of Bootcamp.
   <img src="./images/thumbnails/Day07-p2.png" width="50%">
 </a>
 
+## Day 08
+**Part A - Virtualization**
+
+<a href="https://youtu.be/1kKaQx23JNI" target="_blank">
+  <img src="./images/thumbnails/Day08-p1.png" width="50%">
+</a>
+
+**Part B - Questions & Answers**
+
+<a href="https://youtu.be/qbrpbzpI_UQ" target="_blank">
+  <img src="./images/thumbnails/Day08-p2.png" width="50%">
+</a>
+
+## Day 09
+**Part A - Virtual Machine Setup on VirtualBox**
+
+<a href="https://youtu.be/Z_gpemoJ8rI" target="_blank">
+  <img src="./images/thumbnails/Day09-p1.png" width="50%">
+</a>
+
+**Part B - Virtual Machine Setup on AWS**
+
+<a href="https://youtu.be/UnKqhBM6ew4" target="_blank">
+  <img src="./images/thumbnails/Day09-p2.png" width="50%">
+</a>
+
+**Part C - Questions & Answers**
+
+<a href="https://youtu.be/bQs146bVOKE" target="_blank">
+  <img src="./images/thumbnails/Day09-p3.png" width="50%">
+</a>
+
 
 <!-- 
 ## Day 06
@@ -585,7 +619,6 @@ Following are the recorded sessions of Bootcamp.
 <a href="" target="_blank">
   <img src="./images/thumbnails/Day03-p2.png" width="50%">
 </a>
-
 
 
 DevOps Bootcamp - Day 05
