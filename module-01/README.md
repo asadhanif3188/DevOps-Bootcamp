@@ -122,3 +122,34 @@ Follow the links below to connect with him:
   <img src="../images/thumbnails/Day07-p2.png" width="50%">
 </a>
 
+## Day 08
+**Part A - Virtualization**
+
+<a href="https://youtu.be/1kKaQx23JNI" target="_blank">
+  <img src="../images/thumbnails/Day08-p1.png" width="50%">
+</a>
+
+**Part B - Questions & Answers**
+
+<a href="https://youtu.be/qbrpbzpI_UQ" target="_blank">
+  <img src="../images/thumbnails/Day08-p2.png" width="50%">
+</a>
+
+## Day 09
+**Part A - Virtual Machine Setup on VirtualBox**
+
+<a href="https://youtu.be/Z_gpemoJ8rI" target="_blank">
+  <img src="../images/thumbnails/Day09-p1.png" width="50%">
+</a>
+
+**Part B - Virtual Machine Setup on AWS**
+
+<a href="https://youtu.be/UnKqhBM6ew4" target="_blank">
+  <img src="../images/thumbnails/Day09-p2.png" width="50%">
+</a>
+
+**Part C - Questions & Answers**
+
+<a href="https://youtu.be/bQs146bVOKE" target="_blank">
+  <img src="../images/thumbnails/Day09-p3.png" width="50%">
+</a>
