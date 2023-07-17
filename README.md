@@ -475,6 +475,8 @@ Following are the recorded sessions of Bootcamp.
 - [Day 07 - Operating System](#day-07)
 - [Day 08 - Virtualization](#day-08)
 - [Day 09 - Virtual Machine Setup](#day-09)
+- [Day 10 - Basic Utilities and Commands for Linux](#day-10)
+- [Day 11 - Working with Directories in Linux](#day-11)
 
 -------
 
