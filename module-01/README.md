@@ -153,3 +153,31 @@ Follow the links below to connect with him:
 <a href="https://youtu.be/bQs146bVOKE" target="_blank">
   <img src="../images/thumbnails/Day09-p3.png" width="50%">
 </a>
+
+
+## Day 10
+**Part A - Basic Utilities and Commands for Linux**
+
+<a href="https://youtu.be/NINIlRxiEYo" target="_blank">
+  <img src="../images/thumbnails/Day10-p1.png" width="50%">
+</a>
+
+**Part B - Questions & Answers**
+
+<a href="https://youtu.be/DJ4l6p1lrpU" target="_blank">
+  <img src="../images/thumbnails/Day10-p2.png" width="50%">
+</a>
+
+
+## Day 11
+**Part A - Working with Directories in Linux**
+
+<a href="https://youtu.be/74TmPGostFI" target="_blank">
+  <img src="../images/thumbnails/Day11-p1.png" width="50%">
+</a>
+
+**Part B - Questions & Answers**
+
+<a href="https://youtu.be/DoA99HKSb-Q" target="_blank">
+  <img src="../images/thumbnails/Day11-p2.png" width="50%">
+</a>
