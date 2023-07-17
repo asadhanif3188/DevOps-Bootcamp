@@ -604,11 +604,39 @@ Following are the recorded sessions of Bootcamp.
   <img src="./images/thumbnails/Day09-p3.png" width="50%">
 </a>
 
+## Day 10
+**Part A - Basic Utilities and Commands for Linux**
+
+<a href="https://youtu.be/NINIlRxiEYo" target="_blank">
+  <img src="./images/thumbnails/Day10-p1.png" width="50%">
+</a>
+
+**Part B - Questions & Answers**
+
+<a href="https://youtu.be/DJ4l6p1lrpU" target="_blank">
+  <img src="./images/thumbnails/Day10-p2.png" width="50%">
+</a>
+
+
+## Day 11
+**Part A - Working with Directories in Linux**
+
+<a href="https://youtu.be/74TmPGostFI" target="_blank">
+  <img src="./images/thumbnails/Day11-p1.png" width="50%">
+</a>
+
+**Part B - Questions & Answers**
+
+<a href="https://youtu.be/DoA99HKSb-Q" target="_blank">
+  <img src="./images/thumbnails/Day11-p2.png" width="50%">
+</a>
+
+
+
 
 <!-- 
-## Day 06
+## Day 10
 **Part A - **
-
 
 <a href="" target="_blank">
   <img src="./images/thumbnails/Day03-p1.png" width="50%">
@@ -620,56 +648,6 @@ Following are the recorded sessions of Bootcamp.
   <img src="./images/thumbnails/Day03-p2.png" width="50%">
 </a>
 
-
-DevOps Bootcamp - Day 05
-Part A - Principles of DevOps and its Lifecycle
-https://youtu.be/nYJTrkYT9Qo
-Part B - Questions & Answers
-https://youtu.be/aTub-2IBR5c
-
-
-DevOps Bootcamp - Day 06
-Part A - 7 Cs of DevOps
-https://youtu.be/E_VDKNQwta8
-Part B - Questions & Answers
-https://youtu.be/43GHSrd1AD0
-
-
-DevOps Bootcamp - Day 07
-Part A - Operating System
-https://youtu.be/LkCnMILfJeg
-Part B - Questions & Answers
-https://youtu.be/_9w0hMN-sYY
-
-
-DevOps Bootcamp - Day 08
-Part A - Virtualization 
-https://youtu.be/1kKaQx23JNI
-Part B - Questions & Answers
-https://youtu.be/qbrpbzpI_UQ
-
-
-DevOps Bootcamp - Day 09
-Part A - Virtual Machine Setup on VirtualBox
-https://youtu.be/Z_gpemoJ8rI
-Part B - Virtual Machine Setup on AWS
-https://youtu.be/UnKqhBM6ew4
-Part B - Questions & Answers
-https://youtu.be/bQs146bVOKE
-
-
-DevOps Bootcamp - Day 10
-Part A - Basic Utilities and Commands for Linux
-https://youtu.be/NINIlRxiEYo
-Part B - Questions & Answers
-https://youtu.be/DJ4l6p1lrpU
-
-
-DevOps Bootcamp - Day 11
-Part A - Working with Directories in Linux
-https://youtu.be/74TmPGostFI
-Part B - Questions & Answers
-https://youtu.be/DoA99HKSb-Q
 
 
 DevOps Bootcamp - Day 12
