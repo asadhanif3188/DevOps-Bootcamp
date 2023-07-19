@@ -181,3 +181,30 @@ Follow the links below to connect with him:
 <a href="https://youtu.be/DoA99HKSb-Q" target="_blank">
   <img src="../images/thumbnails/Day11-p2.png" width="50%">
 </a>
+
+## Day 12
+**Part A - Working with Text Files in Linux (Basic Commands)**
+
+<a href="https://youtu.be/2m3q_0ZL2P4" target="_blank">
+  <img src="../images/thumbnails/Day12-p1.png" width="50%">
+</a>
+
+**Part B - Questions & Answers**
+
+<a href="https://youtu.be/vJbLL1pOcxc" target="_blank">
+  <img src="../images/thumbnails/Day12-p2.png" width="50%">
+</a>
+
+
+## Day 13
+**Part A - Working with Text Files in Linux (Advanced Commands)**
+
+<a href="https://youtu.be/lgUM2aQl_EA" target="_blank">
+  <img src="../images/thumbnails/Day13-p1.png" width="50%">
+</a>
+
+**Part B - Questions & Answers**
+
+<a href="https://youtu.be/FKENnT1awSg" target="_blank">
+  <img src="../images/thumbnails/Day13-p2.png" width="50%">
+</a>
