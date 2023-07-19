@@ -477,6 +477,12 @@ Following are the recorded sessions of Bootcamp.
 - [Day 09 - Virtual Machine Setup](#day-09)
 - [Day 10 - Basic Utilities and Commands for Linux](#day-10)
 - [Day 11 - Working with Directories in Linux](#day-11)
+- [Day 12 - Working with Text Files in Linux (Basic Commands)](#day-12)
+- [Day 13 - Working with Text Files in Linux (Advanced Commands)](#day-13)
+<!-- - [Day 14 - ](#day-14) -->
+
+
+
 
 -------
 
@@ -649,7 +655,7 @@ Following are the recorded sessions of Bootcamp.
 
 
 ## Day 13
-**Part A - Working with Text Files in Linux(Advanced Commands)**
+**Part A - Working with Text Files in Linux (Advanced Commands)**
 
 <a href="https://youtu.be/lgUM2aQl_EA" target="_blank">
   <img src="./images/thumbnails/Day13-p1.png" width="50%">
