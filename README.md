@@ -668,6 +668,33 @@ Following are the recorded sessions of Bootcamp.
 </a>
 
 
+## Day 14
+**Part A - Redirection and Pipes**
+
+<a href="https://youtu.be/uBDFv6TjGU4" target="_blank">
+  <img src="./images/thumbnails/Day14-p1.png" width="50%">
+</a>
+
+**Part B - Questions & Answers**
+
+<a href="https://youtu.be/WvXfOSieiWU" target="_blank">
+  <img src="./images/thumbnails/Day14-p2.png" width="50%">
+</a>
+
+
+## Day 15
+**Part A - Exploring the Nano Text Editor in Linux**
+
+<a href="https://youtu.be/p6IS5w_s11g" target="_blank">
+  <img src="./images/thumbnails/Day15-p1.png" width="50%">
+</a>
+
+**Part B - Questions & Answers**
+
+<a href="https://youtu.be/q6sxwRl7fC4" target="_blank">
+  <img src="./images/thumbnails/Day15-p2.png" width="50%">
+</a>
+
 
 <!-- 
 ## Day 10
