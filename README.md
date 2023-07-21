@@ -479,9 +479,8 @@ Following are the recorded sessions of Bootcamp.
 - [Day 11 - Working with Directories in Linux](#day-11)
 - [Day 12 - Working with Text Files in Linux (Basic Commands)](#day-12)
 - [Day 13 - Working with Text Files in Linux (Advanced Commands)](#day-13)
-<!-- - [Day 14 - ](#day-14) -->
-
-
+- [Day 14 - Redirection and Pipes](#day-14)
+- [Day 15 - Exploring the Nano Text Editor in Linux](#day-15)
 
 
 -------
@@ -667,7 +666,6 @@ Following are the recorded sessions of Bootcamp.
   <img src="./images/thumbnails/Day13-p2.png" width="50%">
 </a>
 
-
 ## Day 14
 **Part A - Redirection and Pipes**
 
@@ -710,28 +708,6 @@ Following are the recorded sessions of Bootcamp.
   <img src="./images/thumbnails/Day03-p2.png" width="50%">
 </a>
 
-
-
-
-DevOps Bootcamp - Day 13
-Part A - 
-Part B - Questions & Answers
-
-DevOps Bootcamp - Day 14
-Part A - 
-Part B - Questions & Answers
-
-DevOps Bootcamp - Day 15
-Part A - 
-Part B - Questions & Answers
-
-DevOps Bootcamp - Day 16
-Part A - 
-Part B - Questions & Answers
-
-DevOps Bootcamp - Day 17
-Part A - 
-Part B - Questions & Answers
 
  -->
 
