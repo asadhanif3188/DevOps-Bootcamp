@@ -255,12 +255,12 @@ Follow the links below to connect with him:
 **Part A - File Compression and Archiving in Linux**
 
 <a href="https://youtu.be/SEYfRuSkP-8" target="_blank">
-  <img src="../images/thumbnails/Day03-p1.png" width="50%">
+  <img src="../images/thumbnails/Day17-p1.png" width="50%">
 </a>
 
 **Part B - Questions & Answers**
 
 <a href="https://youtu.be/MsVbDbFRWf8" target="_blank">
-  <img src="../images/thumbnails/Day03-p2.png" width="50%">
+  <img src="../images/thumbnails/Day17-p2.png" width="50%">
 </a>
 
