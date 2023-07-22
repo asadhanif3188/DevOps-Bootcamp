@@ -481,8 +481,10 @@ Following are the recorded sessions of Bootcamp.
 - [Day 13 - Working with Text Files in Linux (Advanced Commands)](#day-13)
 - [Day 14 - Redirection and Pipes](#day-14)
 - [Day 15 - Exploring the Nano Text Editor in Linux](#day-15)
-<!-- - [Day 16 - ](#day-16)
-- [Day 17 - ](#day-17) -->
+- [Day 16 - Exploring the Vi Text Editor in Linux](#day-16)
+- [Day 17 - File Compression and Archiving in Linux](#day-17)
+
+
 
 
 -------
@@ -694,7 +696,6 @@ Following are the recorded sessions of Bootcamp.
 <a href="https://youtu.be/q6sxwRl7fC4" target="_blank">
   <img src="./images/thumbnails/Day15-p2.png" width="50%">
 </a>
-
 
 ## Day 16
 **Part A - Exploring the Vi Text Editor in Linux**
