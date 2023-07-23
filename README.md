@@ -724,6 +724,19 @@ Following are the recorded sessions of Bootcamp.
 </a>
 
 
+## Day 18
+**Part A - Users and Groups Management in Linux**
+
+<a href="https://youtu.be/mrjv1b4cp5Y" target="_blank">
+  <img src="./images/thumbnails/Day03-p1.png" width="50%">
+</a>
+
+**Part B - Questions & Answers**
+
+<a href="https://youtu.be/7ZlBlX-rV74" target="_blank">
+  <img src="./images/thumbnails/Day03-p2.png" width="50%">
+</a>
+
 
 
 <!-- 
