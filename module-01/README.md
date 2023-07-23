@@ -264,3 +264,16 @@ Follow the links below to connect with him:
   <img src="../images/thumbnails/Day17-p2.png" width="50%">
 </a>
 
+## Day 18
+**Part A - Users and Groups Management in Linux**
+
+<a href="https://youtu.be/mrjv1b4cp5Y" target="_blank">
+  <img src="../images/thumbnails/Day18-p1.png" width="50%">
+</a>
+
+**Part B - Questions & Answers**
+
+<a href="https://youtu.be/7ZlBlX-rV74" target="_blank">
+  <img src="../images/thumbnails/Day18-p2.png" width="50%">
+</a>
+
