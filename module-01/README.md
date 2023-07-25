@@ -277,3 +277,15 @@ Follow the links below to connect with him:
   <img src="../images/thumbnails/Day18-p2.png" width="50%">
 </a>
 
+## Day 19
+**Part A - User Configuration Files**
+
+<a href="https://youtu.be/YqC40Ue7EyM" target="_blank">
+  <img src="../images/thumbnails/Day19-p1.png" width="50%">
+</a>
+
+**Part B - Questions & Answers**
+
+<a href="https://youtu.be/ZLeUIPEmfpo" target="_blank">
+  <img src="../images/thumbnails/Day19-p2.png" width="50%">
+</a>
