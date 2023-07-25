@@ -484,6 +484,7 @@ Following are the recorded sessions of Bootcamp.
 - [Day 16 - Exploring the Vi Text Editor in Linux](#day-16)
 - [Day 17 - File Compression and Archiving in Linux](#day-17)
 - [Day 18 - Users and Groups Management in Linux](#day-18)
+<!-- - [Day 19 - User Configuration Files](#day-19) -->
 
 
 
@@ -736,6 +737,20 @@ Following are the recorded sessions of Bootcamp.
 
 <a href="https://youtu.be/7ZlBlX-rV74" target="_blank">
   <img src="./images/thumbnails/Day18-p2.png" width="50%">
+</a>
+
+
+## Day 19
+**Part A - User Configuration Files**
+
+<a href="https://youtu.be/YqC40Ue7EyM" target="_blank">
+  <img src="./images/thumbnails/Day19-p1.png" width="50%">
+</a>
+
+**Part B - Questions & Answers**
+
+<a href="https://youtu.be/ZLeUIPEmfpo" target="_blank">
+  <img src="./images/thumbnails/Day19-p2.png" width="50%">
 </a>
 
 
