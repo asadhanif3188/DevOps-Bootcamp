@@ -289,3 +289,17 @@ Follow the links below to connect with him:
 <a href="https://youtu.be/ZLeUIPEmfpo" target="_blank">
   <img src="../images/thumbnails/Day19-p2.png" width="50%">
 </a>
+
+## Day 20
+**Part A - Users Management in Linux**
+
+<a href="https://youtu.be/tQRMxewnEjQ" target="_blank">
+  <img src="../images/thumbnails/Day20-p1.png" width="50%">
+</a>
+
+**Part B - Questions & Answers**
+
+<a href="https://youtu.be/SYyKQjM7LP8" target="_blank">
+  <img src="../images/thumbnails/Day20-p2.png" width="50%">
+</a>
+
