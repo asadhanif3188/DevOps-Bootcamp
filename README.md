@@ -767,6 +767,18 @@ Following are the recorded sessions of Bootcamp.
   <img src="./images/thumbnails/Day20-p2.png" width="50%">
 </a>
 
+## Day 21
+**Part A - Groups Management in Linux**
+
+<a href="https://youtu.be/zN4rFmtBtpc" target="_blank">
+  <img src="./images/thumbnails/Day21-p1.png" width="50%">
+</a>
+
+**Part B - Questions & Answers**
+
+<a href="https://youtu.be/26ElSP1_EFM" target="_blank">
+  <img src="./images/thumbnails/Day21-p2.png" width="50%">
+</a>
 
 
 
