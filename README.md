@@ -486,6 +486,7 @@ Following are the recorded sessions of Bootcamp.
 - [Day 18 - Users and Groups Management in Linux](#day-18)
 - [Day 19 - User Configuration Files](#day-19)
 - [Day 20 - Users Management in Linux](#day-20)
+- [Day 21 - Groups Management in Linux](#day-21)
 
 
 
