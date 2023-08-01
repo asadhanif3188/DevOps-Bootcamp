@@ -487,7 +487,7 @@ Following are the recorded sessions of Bootcamp.
 - [Day 19 - User Configuration Files](#day-19)
 - [Day 20 - Users Management in Linux](#day-20)
 - [Day 21 - Groups Management in Linux](#day-21)
-
+- [Day 22 - Switching Users and Superuser Privileges](#day-22)
 
 
 -------
