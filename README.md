@@ -781,6 +781,18 @@ Following are the recorded sessions of Bootcamp.
   <img src="./images/thumbnails/Day21-p2.png" width="50%">
 </a>
 
+## Day 22
+**Part A - Switching Users and Superuser Privileges**
+
+<a href="https://youtu.be/i3FDpEGCfXo" target="_blank">
+  <img src="./images/thumbnails/Day22-p1.png" width="50%">
+</a>
+
+**Part B - Questions & Answers**
+
+<a href="https://youtu.be/wMZjPk7n3xE" target="_blank">
+  <img src="./images/thumbnails/Day22-p2.png" width="50%">
+</a>
 
 
 
