@@ -330,3 +330,16 @@ Follow the links below to connect with him:
 <a href="https://youtu.be/wMZjPk7n3xE" target="_blank">
   <img src="../images/thumbnails/Day22-p2.png" width="50%">
 </a>
+
+## Day 23
+**Part A - File Ownership and Permissions in Linux**
+
+<a href="https://youtu.be/zPE1AKFCw0k" target="_blank">
+  <img src="../images/thumbnails/Day23-p1.png" width="50%">
+</a>
+
+**Part B - Questions & Answers**
+
+<a href="https://youtu.be/jryspMS1Ss8" target="_blank">
+  <img src="../images/thumbnails/Day23-p2.png" width="50%">
+</a>
