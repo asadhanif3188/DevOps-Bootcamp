@@ -488,7 +488,7 @@ Following are the recorded sessions of Bootcamp.
 - [Day 20 - Users Management in Linux](#day-20)
 - [Day 21 - Groups Management in Linux](#day-21)
 - [Day 22 - Switching Users and Superuser Privileges](#day-22)
-
+<!-- - [Day 23 -  ](#day-23) -->
 
 -------
 
@@ -794,6 +794,18 @@ Following are the recorded sessions of Bootcamp.
   <img src="./images/thumbnails/Day22-p2.png" width="50%">
 </a>
 
+## Day 23
+**Part A - File Ownership and Permissions in Linux**
+
+<a href="https://youtu.be/zPE1AKFCw0k" target="_blank">
+  <img src="./images/thumbnails/Day23-p1.png" width="50%">
+</a>
+
+**Part B - Questions & Answers**
+
+<a href="https://youtu.be/jryspMS1Ss8" target="_blank">
+  <img src="./images/thumbnails/Day23-p2.png" width="50%">
+</a>
 
 
 <!-- 
