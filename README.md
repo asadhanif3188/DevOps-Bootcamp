@@ -807,6 +807,20 @@ Following are the recorded sessions of Bootcamp.
   <img src="./images/thumbnails/Day23-p2.png" width="50%">
 </a>
 
+ 
+## Day 24
+**Part A - Unraveling SUID, SGID, and Sticky Bit**
+
+<a href="https://youtu.be/w19DA4hMImc" target="_blank">
+  <img src="./images/thumbnails/Day24-p1.png" width="50%">
+</a>
+
+**Part B - Questions & Answers**
+
+<a href="https://youtu.be/ky2cfO8Ecxw" target="_blank">
+  <img src="./images/thumbnails/Day24-p2.png" width="50%">
+</a>
+
 
 <!-- 
 ## Day 10
