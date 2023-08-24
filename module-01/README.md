@@ -356,3 +356,17 @@ Follow the links below to connect with him:
 <a href="https://youtu.be/ky2cfO8Ecxw" target="_blank">
   <img src="../images/thumbnails/Day24-p2.png" width="50%">
 </a>
+
+## Day 25
+**Part A - Secure Shell (SSH) and Authentication Methods**
+
+<a href="https://youtu.be/YIm-xLWWV_0" target="_blank">
+  <img src="../images/thumbnails/Day25-p1.png" width="50%">
+</a>
+
+**Part B - Questions & Answers**
+
+<a href="https://youtu.be/AicMQLv5Uzg" target="_blank">
+  <img src="../images/thumbnails/Day25-p2.png" width="50%">
+</a>
+
