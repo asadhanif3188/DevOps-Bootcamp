@@ -824,6 +824,20 @@ Following are the recorded sessions of Bootcamp.
 </a>
 
 
+## Day 25
+**Part A - Secure Shell (SSH) and Authentication Methods**
+
+<a href="https://youtu.be/YIm-xLWWV_0" target="_blank">
+  <img src="./images/thumbnails/Day25-p1.png" width="50%">
+</a>
+
+**Part B - Questions & Answers**
+
+<a href="https://youtu.be/AicMQLv5Uzg" target="_blank">
+  <img src="./images/thumbnails/Day25-p2.png" width="50%">
+</a>
+
+
 <!-- 
 ## Day 10
 **Part A - **
