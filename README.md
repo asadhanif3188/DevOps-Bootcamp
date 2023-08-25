@@ -838,6 +838,20 @@ Following are the recorded sessions of Bootcamp.
   <img src="./images/thumbnails/Day25-p2.png" width="50%">
 </a>
 
+## Day 26
+**Part A - Mastering SSH Config File in Linux**
+
+<a href="https://youtu.be/7a2FRg3x0kI" target="_blank">
+  <img src="./images/thumbnails/Day26-p1.png" width="50%">
+</a>
+
+**Part B - Questions & Answers**
+
+<a href="https://youtu.be/i3AJriCpG24" target="_blank">
+  <img src="./images/thumbnails/Day26-p2.png" width="50%">
+</a>
+
+
 
 <!-- 
 ## Day 10
